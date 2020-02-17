@@ -9,9 +9,9 @@ Simplified version of Klotski game written in OCaml
 >>O: orientation (V: vertical, H: horizontal)  
 >>X, Y: coordinates of the highest and leftmost cell in the grid  
       
->>eg. A2H12
->>B3V00
->>C2V42
+      eg. A2H12
+          B3V00
+          C2V42
 >movement: 
 >>'>': move forward  
 >>'<': move back
