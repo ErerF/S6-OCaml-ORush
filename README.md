@@ -1,7 +1,7 @@
 # S6-OCaml-ORush
 Simplified version of Klotski game written in OCaml
 
--------------Introduction-------------
+-------------Introduction-------------  
 port：a 6*6 grid  
 boat: described by 5 characters -- ILOXY  
       I: id (one char chosen from 'A' to 'Z')  
